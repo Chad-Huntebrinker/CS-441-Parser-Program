@@ -1,0 +1,12 @@
+Before you type in any command in the racket program,
+please make sure to open all the input files first.
+
+When I was testing it, if you just typed in a command
+without first oppening the file, like (parse "input1.txt"),
+then an error comes up saying that file doesn't exist.
+
+Not sure why it does that, but in order for the program to work,
+open racket, then open the input files (you can close them afterwords
+if you want), and then you can type in the command.
+
+Thank you for your reading this and I hope you enjoy!
